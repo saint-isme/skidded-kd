@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://github.com/saint-isme/skidded-reanim/blob/main/skidreanim"))()
+loadstring(game:HttpGet("https://github.com/saint-isme/SKIDDED-MARTIALARTS.git"))()
+game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync("skidded by val")
