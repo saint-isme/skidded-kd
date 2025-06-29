@@ -1,3 +1,3 @@
-loadstring(game:HttpGet("https://github.com/saint-isme/skidded-reanim/blob/main/skidreanim"))()
-loadstring(game:HttpGet("https://github.com/saint-isme/SKIDDED-MARTIALARTS.git"))()
+loadstring(game:HttpGet(""https://rawscripts.net/raw/Just-a-baseplate.-Just-A-Baseplate-Working-Reanimation-39126"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/saint-isme/SKIDDED-MARTIALARTS/refs/heads/main/skid%20kd"))()
 game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync("skidded by val")
